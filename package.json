@@ -18,7 +18,7 @@
     "kefir": "^3.8.1",
     "kefir.db": "^0.4.4",
     "mini-css-extract-plugin": "^0.4.1",
-    "nanoid": "^1.0.1",
+    "nanoid": "^3.1.31",
     "node-fetch": "^2.2.0",
     "path-webpack": "0.0.3",
     "pathz": "^0.9.0",
